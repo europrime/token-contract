@@ -1,4 +1,4 @@
-# Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
+EUROPRIME# Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
 
 ## NFT (Non-Fungible tokens) in `nft` folder
 
